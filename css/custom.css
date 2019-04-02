@@ -1,0 +1,14 @@
+￼/* Custom CSS */
+@media (min-width: 768px) and (max-width: 1000px) {
+   .collapse {
+       display: none !important;
+   }
+}
+h1{
+	text-align: center;
+}
+#addressRow{
+	background-color: #333f48;
+    padding: 15px 0;
+    color: #fff
+}
